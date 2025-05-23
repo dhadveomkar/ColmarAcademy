@@ -32,10 +32,3 @@ This project uses media queries to adapt the layout for different screen sizes:
 
 - HTML5
 - CSS3 (Flexbox, Grid, Media Queries)
-
-## 📌 Improvements Needed
-
-- Replace duplicate `id` attributes with unique IDs or class names
-- Improve color contrast for accessibility
-- Add more semantic tags (e.g., `<nav>`, `<section>`, `<main>`)
-- Add more descriptive alt text for images
