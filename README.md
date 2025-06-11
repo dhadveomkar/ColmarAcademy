@@ -2,6 +2,8 @@
 
 This is a responsive landing page for **Colmar Academy**, built using **HTML** and **CSS**. It showcases the academy’s educational offerings, philosophy, featured courses, and professional development resources. The design is based on a wireframe and includes both desktop and mobile views.
 
+Live Link : https://dhadveomkar.github.io/ColmarAcademy/
+
 ## 🚀 Features
 
 - Responsive layout for desktop and mobile devices
